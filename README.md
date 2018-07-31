@@ -1,5 +1,3 @@
-![std::style][std-image]
-
 # std::style [![CC 4.0][cc-image]][cc-url]
 
 Logos, colors and other graphics of the **std::** brand
